@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **in Grade 10**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nelitha14](https://github.com/nelitha14)
+- 👨‍💻 All of my projects are available at [https://github.com/nelitha14?tab=repositories](https://github.com/nelitha14?tab=repositories)
 
 - 📝 I regularly write articles on [https://androidwedakarayo.com/](https://androidwedakarayo.com/)
 
