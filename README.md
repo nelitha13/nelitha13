@@ -27,7 +27,7 @@
 <a href="https://twitter.com/npriyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="npriyawansha" height="30" width="40" /></a>
 <a href="https://fb.com/nelitha.priyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nelitha.priyawansha" height="30" width="40" /></a>
 <a href="https://instagram.com/nelitha14_neliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nelitha14_neliya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/android වැඩකාරයෝ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android වැඩකාරයෝ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/androidwedakarayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android වැඩකාරයෝ" height="30" width="40" /></a>
 <a href="/https://feedly.com/i/subscription/feed/https://androidwedakarayo.com/author/nelitha/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feedly.com/i/subscription/feed/https://androidwedakarayo.com/author/nelitha/rss/" height="30" width="40" /></a>
 </p>
 
