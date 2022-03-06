@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nelitha</h1>
+<h1 align="center">Hi 😎👋, I'm Nelitha</h1>
 <h3 align="center">Tech Blogger 💻 | Tech Enthusiastic 🔍 | Developer 👩‍💻 | Inventor 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha14&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha14" /> </p>
