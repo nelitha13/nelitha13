@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [New Year Countdown Timer](https://github.com/nelitha14/Countdown-Timer)
 
-- 🌱 I’m currently learning **in Grade 10**
+- 🌱 I’m currently learning **in Prince of Wales College, Moratuwa, Sri Lanka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nelitha14?tab=repositories](https://github.com/nelitha14?tab=repositories)
 
