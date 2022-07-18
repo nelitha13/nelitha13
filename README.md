@@ -1,4 +1,5 @@
-<h1 align="center">Hi 😎👋, I'm Nelitha</h1>
+[![Typing SVG](https://mtbtypingsvg.herokuapp.com?font=lobster&lines=Hi%2C+I'm+Nelitha+Priyawansha)](https://git.io/typing-svg)
+
 <h3 align="center">Tech Blogger 💻 | Tech Enthusiastic 🔍 | Developer 👩‍💻 | Inventor 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha14&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha14" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha14?style=social"> </a>
