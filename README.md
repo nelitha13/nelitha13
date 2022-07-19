@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Nelitha Priyawansha</h2>
+<h1 align="center">Hi, I'm Nelitha Priyawansha</h1>
 
 <h3 align="center">Tech Blogger 💻 | Tech Enthusiastic 🔍 | Developer 👩‍💻 | Inventor 💡</h3>
 
