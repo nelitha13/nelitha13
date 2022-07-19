@@ -1,8 +1,10 @@
-[![Typing SVG](https://mtbtypingsvg.herokuapp.com?font=lobster&lines=Hi%2C+I'm+Nelitha+Priyawansha)](https://git.io/typing-svg)
+<h2 align="center">Hi, I'm Nelitha Priyawansha</h2>
 
 <h3 align="center">Tech Blogger 💻 | Tech Enthusiastic 🔍 | Developer 👩‍💻 | Inventor 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha14&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha14" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha14?style=social"> </a>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/nelithavindinu?style=social)
 
 - 🔭 I’m currently working on [New Year Countdown Timer](https://github.com/nelitha14/Countdown-Timer)
 
@@ -37,6 +39,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nelitha14&show_icons=true&locale=en" alt="nelitha14" /></p> <br>
-
-![GitHub metrics](https://metrics.lecoq.io/nelitha14)  
+![Metrics](https://metrics.lecoq.io/nelitha14?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&activity=1&introduction=1&tweets=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&tweets.user=nelithavindinu&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FColombo&config.twemoji=true&config.octicon=true)
