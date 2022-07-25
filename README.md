@@ -6,7 +6,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nelithavindinu?style=social)
 
-- 🔭 I’m currently working on [New Year Countdown Timer](https://github.com/nelitha14/Countdown-Timer)
+- 🔭 I’m currently working on [GranthaKoshaya eLibrary](https://github.com/nelitha14/GranthaKoshaya-eLibrary.git)
 
 - 🌱 I’m currently learning **in Prince of Wales College, Moratuwa, Sri Lanka**
 
