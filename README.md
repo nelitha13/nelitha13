@@ -39,4 +39,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelitha14" alt="nelitha14" /></a> </p>
+
 ![Metrics](https://metrics.lecoq.io/nelitha14?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&activity=1&introduction=1&tweets=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&tweets.user=nelithavindinu&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FColombo&config.twemoji=true&config.octicon=true)
