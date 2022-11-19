@@ -2,13 +2,13 @@
 
 <h3 align="center">Tech Blogger 💻 | Tech Enthusiastic 🔍 | Developer 👩‍💻 | Inventor 💡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha14&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha14" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha14?style=social"> </a> <img alt="twitter followers" src="https://img.shields.io/twitter/follow/nelithavindinu?style=social">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha13&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha13" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha13?style=social"> </a> <img alt="twitter followers" src="https://img.shields.io/twitter/follow/nelithavindinu?style=social">
 
-- 🔭 I’m currently working on [GranthaKoshaya eLibrary](https://github.com/nelitha14/GranthaKoshaya.git)
+- 🔭 I’m currently working on [GranthaKoshaya eLibrary](https://github.com/nelitha13/GranthaKoshaya.git)
 
 - 🌱 I’m currently learning **in Prince of Wales College, Moratuwa, Sri Lanka**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nelitha14?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nelitha13?tab=repositories)
 
 - 📝 I regularly write articles on [https://androidwedakarayo.com/](https://androidwedakarayo.com/)
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/npriyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="npriyawansha" height="30" width="40" /></a>
 <a href="https://fb.com/nelitha.priyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nelitha.priyawansha" height="30" width="40" /></a>
-<a href="https://instagram.com/nelitha14_neliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nelitha14_neliya" height="30" width="40" /></a>
+<a href="https://instagram.com/nelitha_13_neliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nelitha_13_neliya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/androidwedakarayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android වැඩකාරයෝ" height="30" width="40" /></a>
 <a href="/https://feedly.com/i/subscription/feed/https://androidwedakarayo.com/author/nelitha/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feedly.com/i/subscription/feed/https://androidwedakarayo.com/author/nelitha/rss/" height="30" width="40" /></a>
 </p>
@@ -33,13 +33,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelitha14&show_icons=true&locale=en&layout=compact" alt="nelitha14" /></p>  <br> <br> <br> <br>  <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelitha13&show_icons=true&locale=en&layout=compact" alt="nelitha13" /></p>  <br> <br> <br> <br>  <br>
  <br> <br>
 
 <h3 align="left">🏆GitHub Trophies:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelitha14" alt="nelitha14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelitha13" alt="nelitha13" /></a> </p>
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Metrics](https://metrics.lecoq.io/nelitha14?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&activity=1&introduction=1&tweets=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&tweets.user=nelithavindinu&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FColombo&config.twemoji=true&config.octicon=true)
+![Metrics](https://metrics.lecoq.io/nelitha13?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&activity=1&introduction=1&tweets=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=13&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=13&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&tweets.user=nelithavindinu&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FColombo&config.twemoji=true&config.octicon=true)
