@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha13&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha13" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha13?style=social"> </a> <img alt="twitter followers" src="https://img.shields.io/twitter/follow/nelithavindinu?style=social">
 
-- 🔭 I’m currently working on [GranthaKoshaya eLibrary](https://github.com/nelitha13/GranthaKoshaya.git)
+- 🔭 I’m currently working on [Android වැඩකාරයෝ](https://github.com/androidwedakarayo)
 
 - 🌱 I’m currently learning **in Prince of Wales College, Moratuwa, Sri Lanka**
 
