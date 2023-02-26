@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/nelitha13?tab=repositories)
 
-- 📝 I regularly write articles on [https://androidwedakarayo.com/](https://androidwedakarayo.com/)
+- 📝 I regularly write articles on [https://androidwedakarayo.com/](https://androidwedakarayo.com/author/nelitha)
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Tech & Programming**
 
 - 📫 How to reach me **nelithavindinu7@gmail.com**
 
-- 📄 Know about my experiences [https://lift.bio/nelitha14_neliya](https://lift.bio/nelitha14_neliya)
+- 📄 Know about my experiences [Visit My Personal Website](https://nelitha13.github.io/profile/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
