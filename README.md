@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nelithavindinu7@gmail.com**
 
-- 📄 Know about my experiences [Visit My Personal Website](https://nelitha13.github.io/profile/)
+- 📄 Know about my experiences [Visit My Personal Website](https://nelitha13.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
