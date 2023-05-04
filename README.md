@@ -2,7 +2,7 @@
 
 <h3 align="center">Tech Blogger 💻 | Tech Enthusiastic 🔍 | Developer 👩‍💻 | Inventor 💡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha13&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha13" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha13?style=social"> </a> <img alt="twitter followers" src="https://img.shields.io/twitter/follow/nelithavindinu?style=social">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelitha13&label=Profile%20views&color=0e75b6&style=flat" alt="nelitha13" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nelitha13?style=social"> </a> <img alt="twitter followers" src="https://img.shields.io/twitter/follow/nelitha_13?style=social">
 
 - 🔭 I’m currently working on [Android වැඩකාරයෝ](https://github.com/androidwedakarayo)
 
